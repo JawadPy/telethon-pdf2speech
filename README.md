@@ -1,5 +1,5 @@
 ## telethon-pdf2speech
-Convert PDF files from english langauge (text) to arabic langauge (audio). 
+Telegram bot to convert PDF files from English langauge (text) to Arabic langauge (audio).
 
 ## Setup
 - download [en_ar.argosmodel](https://github.com/LibreTranslate/LibreTranslate-Models/blob/3d5ca0a2c3c302287339b2944329f767ac1673f4/en_ar.argosmodel), add it with `main.py` path
